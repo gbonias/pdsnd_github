@@ -17,3 +17,6 @@ The support provided by the Udacity website were very helpful (Project specifica
 
 ### Project duration
 The project was completed within one month (including the time required to go through the Python lessons)
+
+### Software used
+On top of the Udacity environment, the Atom software was also used
